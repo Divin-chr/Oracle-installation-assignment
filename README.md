@@ -10,7 +10,7 @@ This repository has file that when viewed raw, demonstrates a systematic impleme
 
 
 
-Task 1: Academic Workspace PDB Creation
+-Task 1: Academic Workspace PDB Creation
 
 Objective: Establish a dedicated pluggable database for scholarly research and coursework
 
@@ -24,7 +24,7 @@ Multi-tenant data management patterns
 
 
 
-Task 2: creating and deleting a PDB
+-Task 2: creating and deleting a PDB
 
 Objective: Create and prepare for deletion a temporary PDB to illustrate complete database lifecycle management
 
@@ -34,13 +34,9 @@ Resource allocation and deallocation
 
 
 
-Task 3: Oracle Enterprise Manager Configuration
+-Task 3: Oracle Enterprise Manager Configuration
 
 Objective: Deploy comprehensive monitoring and administration framework
 
-Theoretical Concepts Applied:
-
-Enterprise-scale database monitoring
-
-Administrative console configuration
+The overall installation has failed and I am waiting for the supervisor's assistance due to the irrelevance of the other sources of  information
 
